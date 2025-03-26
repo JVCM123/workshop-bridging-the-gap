@@ -22,6 +22,7 @@ Este repositório contém:
    - Faça uma modificação simples no código (via interface do GitHub).  
    - Abra um Pull Request para revisão e merge, e observe como suas rulesets se comportam.
    - (opcional) Explore o GitHub Codespaces integrado com Copilot
+   - Arquivo Editadp
 
 ---
 
